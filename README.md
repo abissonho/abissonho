@@ -1,16 +1,19 @@
-## Hi there 👋
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+</div>
 
-<!--
-**abissonho/abissonho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  Olá 👋, eu sou Alexsandro! Um apaixonado estudante de Engenharia de Software do Brasil.
+  
+- 🌱 Atualmente estou aprendendo sobre Desenvolvimento Web.
+- 🔭 Estou em busca de uma oportunidade de estágio.
+</p>
 
-Here are some ideas to get you started:
+<details>
+  <summary>👨‍💻 Mais sobre mim</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - 💬 Tenho 20 anos e moro no Brasil. Estou cursando Engenharia de Software (4º período), Atualmente desenvolvo na parte de front-end e estou aprendendo a desenvolver UI, Interfaces para jogos na Unity.
+
+  - ⚡ Gosto de ir à academia, estudar tecnologia e explorar projetos criativos, como desenvolvimento de jogos.
