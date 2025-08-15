@@ -33,7 +33,9 @@
 
 ---
 <!-- Links -->
+<div style="background-color: red; ">
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/AlexsandroBissonho/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexbissonho/)
 <a href = "https://mail.google.com/mail/?view=cm&fs=1&to=contatoalexbissonho@gmail.com"><img src="https://img.shields.io/badge/Gmail-800080?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
