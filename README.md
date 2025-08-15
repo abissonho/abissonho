@@ -36,6 +36,6 @@
 <div style="background-color: red; style="width:10px;" ">
 <a href = "https://www.linkedin.com/in/alexbissonho/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target=:"_blank"></a>
 <a href = "https://www.instagram.com/AlexsandroBissonho/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target=:"_blank"></a>
-<a href = "https://mail.google.com/mail/?view=cm&fs=1&to=contatoalexbissonho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" target="_blank" style="width:90px;"></a>
+<a href = "https://mail.google.com/mail/?view=cm&fs=1&to=alexbissonho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" target="_blank" style="width:90px;"></a>
 </div>
 
